@@ -1,0 +1,7 @@
+# CONFIG PRIVADA
+.env
+.env.*
+
+# ARCHIVOS GENERADOS
+bin/
+obj/
