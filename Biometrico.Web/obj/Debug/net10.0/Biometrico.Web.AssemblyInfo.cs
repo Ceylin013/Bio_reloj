@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Biometrico.Web")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e3b38b8228928b5223ae47c77a0424c3a03269af")]
 [assembly: System.Reflection.AssemblyProductAttribute("Biometrico.Web")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Biometrico.Web")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

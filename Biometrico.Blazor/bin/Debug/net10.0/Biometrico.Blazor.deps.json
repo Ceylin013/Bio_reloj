@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Biometrico.Blazor/1.0.0": {
+        "runtime": {
+          "Biometrico.Blazor.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Biometrico.Blazor/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

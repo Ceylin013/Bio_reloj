@@ -1,4 +1,5 @@
 <Solution>
-  <Project Path="Biometrico.Extractor/Biometrico.Extractor.csproj" />
+  <Project Path="Biometrico.Blazor/Biometrico.Blazor.csproj" />
   <Project Path="Biometrico.Web/Biometrico.Web.csproj" />
+  <Project Path="PruebaZkTecoCOM/PruebaZkTecoCOM.csproj" />
 </Solution>

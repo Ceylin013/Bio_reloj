@@ -1,0 +1,192 @@
+﻿NumeroEmpleado,Nombre,Privilegio,Habilitado
+37,"",3,True
+31,"JUNIORM 31",3,True
+29,"EDUARDOB 29",0,True
+48,"PABLON 48",0,True
+58,"OSMANT 58",0,True
+24,"KENNETHR 24",3,True
+119,"MARCOSH 119",0,True
+76,"SAUDYD 76",0,True
+97,"EVERP 97",0,True
+28,"BRENDAA 28",0,True
+115,"SELMIE 115",0,True
+73,"SHARONS 73",0,True
+131,"KEVINS 131",0,True
+111,"ANAINL 111",0,True
+132,"NIDIAP 132",0,True
+13,"MEYDYV 13",0,True
+61,"DARLINS 61",0,True
+72,"OLVINL 72",0,True
+103,"MARLONR 103",0,True
+65,"DENISD 65",0,True
+55,"REYZ 55",0,True
+63,"GLENDAC 63",0,True
+128,"ROSSELC 128",0,True
+130,"JUANE 130",0,True
+12,"KEVING 12",0,True
+22,"SOBEYDAF 22",0,True
+5,"PEDROE 5",0,True
+8,"JORGEC 8",0,True
+19,"KARINAB 19",0,True
+1,"BELKISZ 1",0,True
+96,"JOSEH 96",0,True
+36,"SEYDYO 36",0,True
+3,"ERMISC 3",0,True
+9,"WALKIRIANR 9",0,True
+88,"ELIASA 88",0,True
+17,"DEXTERR 17",0,True
+10,"CARLOSM 10",0,True
+21,"EDING 21",0,True
+139,"PABLOMA 139",0,True
+140,"NANCYT 140",0,True
+4,"KENIAL 4",0,True
+145,"WILFREDOP 145",0,True
+144,"GERONIMOM 144",0,True
+30,"NILIANA 30",0,True
+45,"ERICKN 45",3,True
+46,"GABRIELAM 46",0,True
+53,"JULIOME 53",0,True
+95,"OSCARZ 95",0,True
+121,"LESLIO 121",0,True
+122,"DERWISH 122",0,True
+127,"ALLANM 127",0,True
+142,"MARVINM 142",0,True
+143,"JORGEH 143",0,True
+15,"ELINE 15",3,True
+18,"LILIANM 18",0,True
+23,"MANUELM 23",0,True
+27,"CESIAF 27",3,True
+32,"FREDYA 32",0,True
+33,"WALTERM 33",0,True
+38,"KEVINM 38",3,True
+39,"WENDYG 39",3,True
+40,"LUISA 40",0,True
+41,"NOLVINL 41",0,True
+43,"MIREYDAR 43",3,True
+44,"LESLYG 44",0,True
+47,"EDINQ 47",0,True
+49,"GABYA 49",0,True
+51,"RONYL 51",0,True
+56,"JOSEV 56",0,True
+64,"ELSYC 64",0,True
+69,"DORIANC 69",0,True
+70,"CARLOSP 70",3,True
+77,"ANAC 77",0,True
+78,"GERSONO 78",0,True
+79,"IVETHG 79",0,True
+82,"FERNANDOM 82",0,True
+83,"CARMEND 83",0,True
+84,"JEISONA 84",0,True
+85,"WALTHERZ 85",0,True
+94,"MAYRAF 94",0,True
+100,"FERNANDOR 100",0,True
+104,"NAHUNA 104",0,True
+105,"JOSER 105",0,True
+106,"GENESISM 106",0,True
+107,"JOSUEM 107",0,True
+108,"JENNIFERH 108",0,True
+109,"WENBERC 109",0,True
+110,"LESLYM 110",0,True
+112,"CLARAG 112",3,True
+114,"AMNYH 114",0,True
+116,"WILFREDOV 116",0,True
+117,"DOUGLASR 117",0,True
+125,"LILIANE 125",0,True
+129,"KARLAS 129",0,True
+134,"ALEXH 134",0,True
+136,"BLANCAE 136",0,True
+137,"DALIAE 137",0,True
+138,"ANYC 138",0,True
+141,"BETYE 141",0,True
+35,"JONNYZ 35",0,True
+86,"JUANM 86",0,True
+93,"MAIKELG 93",0,True
+101,"MARELYV 101",0,True
+102,"ERWINF 102",0,True
+135,"FATIMAA 135",0,True
+153,"HERALDOR 153",0,True
+156,"DENILSONM 156",0,True
+155,"SKARLETHS 155",0,True
+146,"ARIELB 146",0,True
+147,"MAIKELYNG 147",0,True
+148,"DORISR 148",0,True
+149,"ALEXG 149",0,True
+151,"ESTEFANYC 151",0,True
+152,"ANAC 152",0,True
+154,"LUISL 154",0,True
+160,"JOSES 160",0,True
+170,"EDUARDM 170",0,True
+161,"NAYELIV 161",0,True
+164,"MARLENS 164",0,True
+157,"GERMANP 157",0,True
+159,"FRANKLINA 159",0,True
+163,"DUSTINA 163",0,True
+165,"JAFETR 165",0,True
+162,"JEZERG 162",0,True
+174,"SENIAJ 174",0,True
+166,"ENMANUELB 166",0,True
+167,"ALLANE 167",0,True
+168,"SANTOSR 168",0,True
+169,"JOSEM 169",0,True
+171,"HECTORE 171",0,True
+182,"OSCARA 182",0,True
+185,"MARSSAM 185",0,True
+186,"LURVINS 186",0,True
+191,"ElyL 191",0,True
+175,"AnaM 175",0,True
+195,"RiccyM 195",0,True
+202,"YaneliM 202",0,True
+199,"KevinP 199",0,True
+177,"177 177",0,True
+181,"DarwinS 181",0,True
+194,"ElvisF 194",0,True
+192,"FernandoP 192",0,True
+173,"ArnoldV 173",0,True
+204,"YasmaryO 204",0,True
+212,"212 212",0,True
+211,"211 211",0,True
+210,"MarlonM 210",0,True
+205,"205 205",0,True
+207,"207 207",0,True
+220,"LEONARDOB 220",3,True
+219,"219 219",0,True
+180,"180 180",0,True
+187,"187 187",0,True
+218,"ERVIN 218",0,True
+226,"ORLIN 226",0,True
+176,"HeylinH 176",0,True
+209,"KeniaO 209",0,True
+172,"MarvinL 172",0,True
+206,"EStefanyG 206",0,True
+158,"158 158",0,True
+178,"178 178",0,True
+208,"208 208",0,True
+229,"LoanyM 229",0,True
+232,"NemesisA 232",0,True
+234,"VictorM 234",0,True
+233,"LayevskaA 233",0,True
+231,"FernandoM 231",0,True
+225,"DavidA 225",0,True
+227,"ManuelS 227",0,True
+228,"Õ",0,True
+179,"<ˆV›04\ä–äØÂ–",0,True
+217,"ALEX EVERTO RIVERA MEZA",0,True
+190,"<ˆV›04\ä–äØÂ–",0,True
+196,"<ˆV›04\ä–äØÂ–",0,True
+193,"<ˆV›04\ä–äØÂ–",0,True
+224,"<ˆV›04\ä–äØÂ–",0,True
+214,"<ˆV›04\ä–äØÂ–",0,True
+188,"<ˆV›04\ä–äØÂ–",0,True
+198,"<ˆV›04\ä–äØÂ–",0,True
+197,"<ˆV›04\ä–äØÂ–",0,True
+189,"<ˆV›04\ä–äØÂ–",0,True
+184,"<ˆV›04\ä–äØÂ–",0,True
+200,"<ˆV›04\ä–äØÂ–",0,True
+221,"<ˆV›04\ä–äØÂ–",0,True
+216,"<ˆV›04\ä–äØÂ–",0,True
+201,"<ˆV›04\ä–äØÂ–",0,True
+223,"<ˆV›04\ä–äØÂ–",0,True
+222,"<ˆV›04\ä–äØÂ–",0,True
+215,"<ˆV›04\ä–äØÂ–",0,True
+2,"Albert 2",0,True
+230,"ElielR 230",0,True

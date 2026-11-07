@@ -1,0 +1,131 @@
+@page "/relojes"
+
+<PageTitle>Relojes biométricos</PageTitle>
+
+<h3>Administración de relojes biométricos</h3>
+
+<p>Administra los dispositivos de las diferentes sucursales.</p>
+
+<button class="btn btn-primary mb-3" @onclick="AbrirFormulario">
+    + Agregar reloj
+</button>
+
+@if (mostrarFormulario)
+{
+    <p class="alert alert-success"> El boton funciona correctamente</p>
+}
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Nombre</th>
+            <th>Sucursal</th>
+            <th>Dirección IP</th>
+            <th>Puerto</th>
+            <th>Estado</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>K40 - Sucursal OP</td>
+            <td>Oficina Principal</td>
+            <td>No configurado</td>
+            <td>4370</td>
+            <td><span class="badge bg-secondary">Pendiente</span></td>
+        </tr>
+    </tbody>
+</table>
+
+@if (mostrarFormulario)
+{
+    <div class="modal-backdrop show"></div>
+
+    <div class="modal show d-block" tabindex="-1">
+        <div class="modal-dialog modal-dialog-centered">
+            <div class="modal-content">
+
+                <div class="modal-header">
+                    <h5 class="modal-title">Registrar reloj biométrico</h5>
+                    <button type="button" class="btn-close" @onclick="CerrarFormulario"></button>
+                </div>
+
+                <div class="modal-body">
+
+                    <div class="mb-3">
+                        <label class="form-label">Nombre del reloj</label>
+                        <input class="form-control" @bind="nombre" placeholder="Ej. K40 - Sucursal OP" />
+                    </div>
+
+                    <div class="mb-3">
+                        <label class="form-label">Sucursal</label>
+                        <select class="form-select" @bind="sucursal">
+                            <option value="">Seleccione una sucursal</option>
+                            <option value="Oficina Principal">Oficina Principal</option>
+                        </select>
+                    </div>
+
+                    <div class="mb-3">
+                        <label class="form-label">Dirección IP</label>
+                        <input class="form-control" @bind="ip" placeholder="Dirección IP del reloj" />
+                    </div>
+
+                    <div class="mb-3">
+                        <label class="form-label">Puerto</label>
+                        <input type="number" class="form-control" @bind="puerto" />
+                    </div>
+
+                    <div class="mb-3">
+                        <label class="form-label">Número de máquina</label>
+                        <input type="number" class="form-control" @bind="numeroMaquina" />
+                    </div>
+
+                    <div class="mb-3">
+                        <label class="form-label">Contraseña de comunicación</label>
+                        <input type="password" class="form-control" @bind="password" />
+                    </div>
+
+                    <div class="form-check mb-3">
+                        <input type="checkbox" class="form-check-input" id="activo" @bind="activo" />
+                        <label class="form-check-label" for="activo">
+                            Reloj activo
+                        </label>
+                    </div>
+
+                </div>
+
+                <div class="modal-footer">
+                    <button class="btn btn-secondary" @onclick="CerrarFormulario">
+                        Cancelar
+                    </button>
+
+                    <button class="btn btn-primary" disabled>
+                        Guardar reloj
+                    </button>
+                </div>
+
+            </div>
+        </div>
+    </div>
+}
+
+@code {
+    private bool mostrarFormulario = false;
+
+    private string nombre = "";
+    private string sucursal = "";
+    private string ip = "";
+    private int puerto = 4370;
+    private int numeroMaquina = 1;
+    private string password = "";
+    private bool activo = true;
+
+    private void AbrirFormulario()
+    {
+        mostrarFormulario = true;
+    }
+
+    private void CerrarFormulario()
+    {
+        mostrarFormulario = false;
+    }
+}
